@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Arvo:wght@700&family=Balsamiq+Sans:wght@700&family=Comfortaa:wght@300;400&family=Domine:wght@600&family=Gluten:wght@200&family=Lobster+Two&family=Londrina+Solid&family=Patrick+Hand+SC&family=Permanent+Marker&family=Rajdhani:wght@400;600&family=Yaldevi:wght@300&family=Yanone+Kaffeesatz:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: "Yaldevi", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
